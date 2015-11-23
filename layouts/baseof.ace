@@ -1,0 +1,11 @@
+= doctype html
+html lang=en
+  head
+    title Woodwed!
+    = css
+      h1 { color: blue; }
+  body
+    .container
+      = include partials/menu.html .
+    .main
+      = yield main
