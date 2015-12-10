@@ -3,3 +3,12 @@ build:
   commands:
     - go get github.com/spf13/hugo
     - hugo -v
+
+publish:
+  s3:
+    acl: public-read
+    region: eu-west-1
+    bucket: wb-wedding
+    access_key: $$AWS_ACCESS_KEY
+    secret_key: $$AWS_SECRET_KEY
+    source: public
