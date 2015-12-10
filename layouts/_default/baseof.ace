@@ -5,6 +5,4 @@ html lang=en
     link href="/style.css" rel="stylesheet"
   body
     .container
-      = include partials/menu.html .
-    .main
       = yield main
