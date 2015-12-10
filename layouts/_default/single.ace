@@ -1,5 +1,5 @@
 = content main
   .panel
-    img src=/{{ .Slug }}.png
+    .image style="background-image: url(/{{ .Slug }}.png)"
   .panel
     {{ .Content }}

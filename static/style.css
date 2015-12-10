@@ -61,6 +61,15 @@ a {
   flex: 2;
 }
 
+.image {
+  display: flex;
+  flex: 1;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  /*background-repeat: ;*/
+}
+
 ul {
   list-style: none;
   padding: 0;
