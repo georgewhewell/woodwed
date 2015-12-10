@@ -1,6 +1,12 @@
-= content main
-  .index-page
-
-   .title
-    h1 Tom & Laura
-    h2 2nd July 2016
+= doctype html
+html lang=en
+  head
+    title Woodwed!
+    link href="style.css" rel="stylesheet"
+  body
+    .index-page
+      .main
+        h1 Tom & Laura
+        h1 2nd July 2016
+      .container
+        = include partials/menu.html .
