@@ -2,7 +2,7 @@
 date = "2015-12-10T15:33:43Z"
 draft = false
 title = "The Day"
-side_image = ""
+slug = "the_day"
 +++
 
 The Day

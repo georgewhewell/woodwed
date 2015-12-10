@@ -29,6 +29,15 @@ a {
   width: 100%;
 }
 
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.panel {
+  width: 100%;
+}
+
 ul {
   list-style: none;
   padding: 0;

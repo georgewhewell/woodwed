@@ -1,3 +1,5 @@
 = content main
-  p
+  .panel
+    img src=/{{ .Slug }}.png
+  .panel
     {{ .Content }}

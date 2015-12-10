@@ -2,6 +2,7 @@
 date = "2015-12-10T15:32:43Z"
 draft = false
 title = "The Evening"
+slug = "the_evening"
 +++
 
 The evening

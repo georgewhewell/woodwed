@@ -2,6 +2,7 @@
 date = "2015-12-10T15:29:43Z"
 draft = false
 title = "RSVP"
+slug = "rsvp"
 +++
 
 RSVP

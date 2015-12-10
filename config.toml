@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
+baseurl = "http://wb-wedding.s3-website-eu-west-1.amazonaws.com"
+languageCode = "en-gb"
 title = "Woodwed"
 SectionPagesMenu = "main"
