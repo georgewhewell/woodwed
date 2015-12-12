@@ -7,7 +7,7 @@ html {
 }
 
 html {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family: 'Playfair Display', serif;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -18,13 +18,14 @@ body {
   margin: 0;
   padding: 75px;
   height: 100%;
-  display: flex;
 }
 
 h1,h2,h3,h4,h5 {
+  font-family: 'Playfair Display SC', serif;
   color: rgb(149,102,53);
   text-transform: uppercase;
   text-align: center;
+  font-weight: 400;
 }
 
 a {
@@ -33,32 +34,35 @@ a {
   text-decoration: none;
 }
 
+p {
+  color: #666;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex: 1;
+}
+
 .index-page {
   background-image: url(./The-Orangery-0011.jpg);
   background-position: center;
   background-size: cover;
 
+  display: flex;
   flex-direction: column;
-
-  display: flex;
   flex: 1;
-}
-
-.container {
-  display: flex;
-  flex: 1;
-}
-
-.two-panel {
-  display: flex;
-  flex: 1;
-/*  flex-direction: column;*/
 }
 
 .panel {
   display: flex;
   flex-direction: column;
   flex: 2;
+
+  text-align: center;
 }
 
 .image {
@@ -67,7 +71,6 @@ a {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  /*background-repeat: ;*/
 }
 
 ul {
@@ -77,6 +80,7 @@ ul {
 }
 
 .nav {
+  font-family: 'Playfair Display SC', serif;
   display: flex;
   justify-content: space-around;
 }

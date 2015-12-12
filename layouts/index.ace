@@ -1,5 +1,5 @@
 = content main
   .index-page
-    = include partials/menu.html .
     h1 Tom & Laura
-    h1 2nd July 2016
+    h1 2<sup>nd</sup> July 2016
+    = include partials/menu.html .
