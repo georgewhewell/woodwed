@@ -8,7 +8,7 @@ publish:
   s3-sync:
     acl: public-read
     region: eu-west-1
-    bucket: wb-wedding
+    bucket: tomandlou.co.uk
     access_key: $$AWS_ACCESS_KEY
     secret_key: $$AWS_SECRET_KEY
     source: public
