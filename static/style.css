@@ -12,6 +12,7 @@ html {
   padding: 0;
   height: 100%;
   width: 100%;
+  color: #666;
 }
 
 body {
@@ -32,10 +33,6 @@ a {
   color: rgb(149,102,53);
   font-weight: bold;
   text-decoration: none;
-}
-
-p {
-  color: #666;
 }
 
 blockquote {
@@ -61,8 +58,11 @@ blockquote {
   display: flex;
   flex-direction: column;
   flex: 2;
-
   text-align: center;
+}
+
+.textpanel {
+  margin: auto;
 }
 
 .image {
@@ -83,4 +83,40 @@ ul {
   font-family: 'Playfair Display SC', serif;
   display: flex;
   justify-content: space-around;
+}
+
+/* Mobile styles */
+@media only screen
+and (min-width : 375px)
+and (max-width : 667px) {
+
+  /* No postcard border */
+  body {
+    padding: 0;
+  }
+
+  /* Make menu vertical */
+  .nav {
+    flex-direction: column;
+    text-align: center;
+  }
+  /* Make menu fill screen */
+  .nav li {
+    margin: 25px;
+    font-size: 2em;
+  }
+
+  /* Image panel faded behind text */
+  .imagepanel {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.5;
+  }
+
+  /* Image full size */
+  .image {
+    background-size: cover;
+  }
 }
