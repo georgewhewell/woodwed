@@ -1,7 +1,7 @@
 = doctype html
 html lang=en
   head
-    title Woodwed!
+    title Laura and Betty
     meta charset="UTF-8"
     link href="/style.css" rel="stylesheet"
     link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet"
