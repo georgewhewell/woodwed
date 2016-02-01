@@ -1,5 +1,8 @@
 = content main
   .panel.imagepanel
-    .image style="background-image: url(/{{ .Slug }}.png)"
+    .image style="background-image: url({{ index .Params "panel_image" }})"
   .panel.textpanel
     {{ .Content }}
+    {{ if isset .Params "iframe" }}
+      iframe src={{ index .Params "iframe" }} frameborder=0 height=650
+    {{ end }}
