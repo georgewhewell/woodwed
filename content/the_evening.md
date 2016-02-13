@@ -12,9 +12,11 @@ Please join us for canapés and dancing to celebrate our wedding day!
 
 The party will take place at:
 
-> The Town House at The Kensington Hotel
+> The Town House
 
-> 11-13 Queens Gate
+> at The Kensington Hotel
+
+> 109-113 Queens Gate
 
 > SW7 5LR
 
@@ -29,6 +31,6 @@ Cash bar
 Where to rest your head
 --------------------------
 
-If you are planning to stay over in London, there are plenty of great hotels in the vicinity, or the wider London area just a cab ride away. We will be staying at [The Kensington Hotel](https://www.doylecollection.com/hotels/the-kensington-hotel), but would also recommend the more reasonably priced [Regency Hotel](http://www.londonregency.com), a mere drunken stumble away across the road.
+If you are planning to stay over in London, there are plenty of great hotels in the vicinity, or the wider London area just a cab ride away. We will be staying at [The Kensington Hotel](https://www.doylecollection.com/hotels/the-kensington-hotel), but would also recommend the more reasonably priced [Doubletree by Hilton Kensington](http://crimsonhotels.com/dtkensington/), a mere drunken stumble away across the road.
 
 Be sure to check online for deals before booking directly with either hotel!
