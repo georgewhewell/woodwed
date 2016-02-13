@@ -29,4 +29,4 @@ We would advise using public transport or cab to arrive at the venue. Parking is
 
 If arriving by cab, ask for the Abbotsbury Rd entrance.
 
-For directions click here
+For directions click [here](https://www.google.co.uk/maps/place/The+Orangery/@51.5019518,-0.2064857,17.18z/data=!4m5!1m2!2m1!1sHolland+Park+Orangery+London+W8+6LU!3m1!1s0x0000000000000000:0x020f327f7d41a431)
