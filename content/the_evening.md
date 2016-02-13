@@ -18,7 +18,7 @@ The party will take place at:
 
 > SW7 5LR
 
-The entrance is located on the corner of Manson Place. For directions click here.
+The entrance is located on the corner of Manson Place. For directions click [here](https://www.google.co.uk/maps/place/The+Kensington+Hotel/@51.4925155,-0.18028,17z/data=!3m1!4b1!4m2!3m1!1s0x4876056791e0ab3b:0xa9ddbf442eabb08c).
 
 Please arrive at 8.15pm
 
