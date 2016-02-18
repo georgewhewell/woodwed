@@ -1,0 +1,2 @@
+= content main
+  iframe src={{ index .Params "iframe" }} frameborder=0 height=650 width=100%
