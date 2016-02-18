@@ -25,7 +25,7 @@ Bubbles, dining and speeches to follow. At __20:00__, we will be moving on to th
 
 Transport Information
 ---------------------
-We would advise using public transport or cab to arrive at the venue. Parking is limited at the Orangery and there is no parking at the evening venue.  The closest tube is Holland Park (central line).
+We would advise using public transport or cab to arrive at the venue. Parking is limited at the Orangery and at the evening venue.  The closest tube is High Street Kensington on the Circle and District lines. Unfortunately, Holland Park tube is closed.
 
 If arriving by cab, ask for the Abbotsbury Rd entrance.
 
