@@ -1,5 +1,6 @@
 = content main
-  .panel.imagepanel
-    .image style="background-image: url({{ index .Params "panel_image" }})"
-  .panel.textpanel
-    {{ .Content }}
+  body.flex
+    .panel.imagepanel
+      .image style="background-image: url({{ index .Params "panel_image" }})"
+    .panel.textpanel
+      {{ .Content }}

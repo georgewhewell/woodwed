@@ -1,2 +1,3 @@
 = content main
-  iframe src={{ index .Params "iframe" }} frameborder=0 height=650 width=100%
+  body.fullpage
+    iframe src={{ index .Params "iframe" }} frameborder=0 height=100% width=100% style="position:fixed"

@@ -21,6 +21,12 @@ body {
   height: 100%;
 }
 
+body.fullpage {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 h1,h2,h3,h4,h5 {
   font-family: 'Playfair Display SC', serif;
   color: rgb(149,102,53);

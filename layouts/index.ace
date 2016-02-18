@@ -1,5 +1,6 @@
 = content main
-  .index-page
-    h1 Tom & Laura
-    h1 2<sup>nd</sup> July 2016
-    = include partials/menu.html .
+  body.flex
+    .index-page
+      h1 Tom & Laura
+      h1 2<sup>nd</sup> July 2016
+      = include partials/menu.html .
