@@ -4,6 +4,6 @@ html lang=en
     title Laura and Betty
     meta charset="UTF-8"
     link href="/style.css" rel="stylesheet"
-    link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet"
+    link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700" rel="stylesheet"
     link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet"
   = yield main
